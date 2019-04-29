@@ -12,3 +12,6 @@ Lab 3 was using Math with mouse X and mouse Y and one ellipse in the top left co
 
 Lab 4 was pizza themed! Creating ellipses within one another to create the pizza and the crust.  Using 'if else' statements clicking numbers 1, 2, & 3 will change the color of the pizza from red, green, and white.  Using toggles will make statements true and false.   
 
+Lab 9 is image, sound, and video.  My image was a cupcake, bang was the sound, and the video was tinting the image. 
+
+Processing was brand new to me and these are basic images but overall enjoyed learning something new.  
